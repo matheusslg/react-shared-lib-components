@@ -1,5 +1,5 @@
 {
-  "name": "shared-lib-components",
+  "name": "@matheusslg/shared-lib-components",
   "version": "0.1.0",
   "private": false,
   "main": "build/index.js",
@@ -83,6 +83,12 @@
     "styled-components": "^5.3.3",
     "webpack": "^5.69.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusslg/react-shared-lib-components"
+  },
+  "author": "Matheus Cavallini",
+  "license": "MIT",
   "publishConfig": {
     "access": "restricted",
     "registry": "https://npm.pkg.github.com/"
